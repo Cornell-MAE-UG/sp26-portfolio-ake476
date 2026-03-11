@@ -7,5 +7,5 @@ image: /assets/images/Nutcracker Photo 1.jpeg
 ---
 
 <img src="assets/images/Nutcracker-Photo-1.jpeg">
-![im](https://github.com/Cornell-MAE-UG/sp26-portfolio-ake476/blob/90f990bca6a9edb5530f5366f4c7c1f1de328c6a/assets/images/Nutcracker%20Photo%201.jpeg)
-![im7](https://github.com/Cornell-MAE-UG/sp26-portfolio-ake476/blob/90f990bca6a9edb5530f5366f4c7c1f1de328c6a/assets/images/Nutcracker%20Photo%202.jpeg)
+![im1](https://github.com/Cornell-MAE-UG/sp26-portfolio-ake476/blob/213aaa0754df18431fe83a0d2f8523bd7a7245d2/assets/images/Nutcracker-Photo-1.jpeg)
+![im2](https://github.com/Cornell-MAE-UG/sp26-portfolio-ake476/blob/213aaa0754df18431fe83a0d2f8523bd7a7245d2/assets/images/Nutcracker-Photo-2.jpeg)
